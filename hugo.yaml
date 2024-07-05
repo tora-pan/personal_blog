@@ -1,4 +1,4 @@
-baseURL: "https://travispandos.com/"
+baseURL: "/"
 title: Travis Pandos
 paginate: 20
 theme: PaperMod
@@ -80,21 +80,21 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: Blog
+      name: "Blog"
+      url: /blog/
+      weight: 10
     - identifier: About
       name: "About"
-      url: /aboutme/
-      weight: 10
-    - identifier: Services
-      name: "Services"
-      url: /services/
+      url: /about/
       weight: 13
-    - identifier: Courses
-      name: "Courses"
-      url: /courses/
+    - identifier: Tech
+      name: "Tech"
+      url: /Tech/
       weight: 15
-    - identifier: Contact
-      name: "Contact"
-      url: /contact/
+    - identifier: Japanese
+      name: "Japanese"
+      url: /Japanese/
       weight: 17
     - identifier: Tags
       name: Tags
