@@ -2,39 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Travis Pandos</title>
-    <link>//localhost:1313/</link>
+    <link>https://travispandos.com/</link>
     <description>Recent content on Travis Pandos</description>
     <generator>Hugo -- 0.128.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jul 2024 08:01:19 -0700</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>All about Japanese and its quirks</title>
-      <link>//localhost:1313/japanese/</link>
-      <pubDate>Fri, 05 Jul 2024 08:01:19 -0700</pubDate>
-      <guid>//localhost:1313/japanese/</guid>
-      <description>About 日本語 </description>
-    </item>
-    <item>
-      <title>All About Tech</title>
-      <link>//localhost:1313/tech/</link>
-      <pubDate>Fri, 05 Jul 2024 08:01:19 -0700</pubDate>
-      <guid>//localhost:1313/tech/</guid>
-      <description>Tech Page </description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Fri, 05 Jul 2024 08:01:19 -0700</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>About Travis </description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/blog/my-first-post/</link>
-      <pubDate>Fri, 05 Jul 2024 08:01:19 -0700</pubDate>
-      <guid>//localhost:1313/blog/my-first-post/</guid>
-      <description>Here is my First Post what do you think?</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://travispandos.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
