@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://torapan-blog.netlify.app/"
 title: Travis Pandos
 paginate: 20
 theme: PaperMod
@@ -53,7 +53,7 @@ params:
     enabled: false # needs to be explicitly set
     title: This is my rad title
     subtitle: "This is my rad subtitle"
-    imageUrl: "https://github.com/mischavandenburg/blog/blob/main/static/k8s.png"
+    imageUrl: "https://avatars.githubusercontent.com/u/81494248?v=4"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
