@@ -40,13 +40,23 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-  disableSpecial1stPost: true
+  disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
   tocopen: false
+
+  # homeInfoParams:
+  #   Title: "Hi there wave"
+  #   Content: Can be Info, links, about...
+
+  # socialIcons: # optional
+  #   - name: "<platform>"
+  #     url: "<link>"
+  #   - name: "<platform 2>"
+  #     url: "<link2>"
 
   # profile-mode
   profileMode:
